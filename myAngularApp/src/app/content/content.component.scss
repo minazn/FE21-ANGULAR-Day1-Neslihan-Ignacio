@@ -1,0 +1,15 @@
+#content{
+    background-color: white;
+    opacity: 1;
+
+    #card-listing{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+
+        .card-item{
+            max-width: 40%;
+            margin-bottom: 2em;
+        }
+    }
+}
